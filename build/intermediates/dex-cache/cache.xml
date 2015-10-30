@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-55b2fe1daa74cb6273363b7d6bc9de28bd24c20c.jar" />
+    </item>
+    <item
+        jar="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/pre-dexed/debug/classes-5d3c598f526ad4046a90b9f042e0e0202dcbab6e.jar" />
+    </item>
+    <item
+        jar="/Users/ouyangwenfeng/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-6462377cf4c27e19e0365af2e17d11ee4cb49451.jar" />
+    </item>
+    <item
+        jar="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/ouyangwenfeng/Documents/StudioProject/TTH/app/build/intermediates/pre-dexed/debug/classes-42cf0e54c0a72c1b1aaf83553c296701a7f65fe0.jar" />
+    </item>
+
+</items>

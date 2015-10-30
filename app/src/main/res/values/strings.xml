@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">应用视图简单框架</string>
+    <string name="tab1_title">tab1</string>
+    <string name="tab2_title">tab2</string>
+    <string name="tab3_title">tab3</string>
+    <string name="tab4_title">tab4</string>
+    <string name="tab5_title">tab5</string>
+</resources>

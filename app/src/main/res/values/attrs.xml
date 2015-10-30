@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baseviews_tabs">
+        <item>标题1</item>
+        <item>标题2</item>
+        <item>标题3</item>
+    </string-array>
+
+</resources>
